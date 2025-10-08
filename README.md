@@ -1,7 +1,7 @@
 # 👩‍💼 HR Workforce Compensation Analytics Dashboard  
 
 ![HR Workforce Dashboard](Screenshot%202025-10-06%20205129.png)
-![](Screenshot%2025-10-08%234641.png)
+![](Screenshot%202025-10-08%20234641.png)
 
 ---
 
