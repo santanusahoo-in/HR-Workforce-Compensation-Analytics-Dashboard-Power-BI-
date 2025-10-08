@@ -90,6 +90,6 @@ The **HR Workforce Analytics Dashboard** bridges the gap between HR data and str
 
 ---
 
-**📁 File:** `HR Compensation & Workforce Analytics Dashboard.pbix`  
+**📁 File:** [`HR Compensation & Workforce Analytics Dashboard.pbix`](HR Compensation & Workforce Analytics Dashboard.pbix)  
 **🧠 Visualization Tool:** Power BI  
 **👨‍💻 Developer:** [Santanu Sahoo]
